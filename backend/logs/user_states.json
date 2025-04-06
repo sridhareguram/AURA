@@ -1,0 +1,1292 @@
+[
+  {
+    "timestamp": "2025-04-05T02:06:42.003910",
+    "user_input": "Hello.",
+    "mood": "happy",
+    "confidence": 0.9993738532066345
+  },
+  {
+    "timestamp": "2025-04-05T02:08:01.043425",
+    "user_input": "Hello",
+    "mood": "happy",
+    "confidence": 0.9995185136795044
+  },
+  {
+    "timestamp": "2025-04-05T02:16:10.783627",
+    "user_input": "Hello",
+    "mood": "happy",
+    "confidence": 0.9995185136795044
+  },
+  {
+    "timestamp": "2025-04-05T02:20:12.935840",
+    "user_input": "Hello",
+    "mood": "happy",
+    "confidence": 0.9995185136795044
+  },
+  {
+    "timestamp": "2025-04-05T02:21:27.672005",
+    "user_input": "I want relax",
+    "mood": "anxious",
+    "confidence": 0.6928735971450806
+  },
+  {
+    "timestamp": "2025-04-05T02:25:00.149038",
+    "user_input": "Hi",
+    "mood": "happy",
+    "confidence": 0.9983267188072205
+  },
+  {
+    "timestamp": "2025-04-05T02:26:25.868450",
+    "user_input": "I am feeling bored",
+    "mood": "anxious",
+    "confidence": 0.9997898936271667
+  },
+  {
+    "timestamp": "2025-04-05T02:29:22.729663",
+    "user_input": "I am feeling bored",
+    "mood": "anxious",
+    "confidence": 0.9997898936271667
+  },
+  {
+    "timestamp": "2025-04-05T02:32:13.905980",
+    "user_input": "I'm really in a panicking situation.",
+    "mood": "anxious",
+    "confidence": 0.9980504512786865
+  },
+  {
+    "timestamp": "2025-04-05T02:42:30.118303",
+    "user_input": "I'm confused.",
+    "mood": "anxious",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T02:50:44.201228",
+    "user_input": "I am feeling confused.",
+    "mood": "anxious",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T02:53:10.796943",
+    "user_input": "What is your view on recent political events?",
+    "mood": "anxious",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T02:54:09.659025",
+    "user_input": "What is my previous question that I asked?",
+    "mood": "anxious",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T02:55:07.913815",
+    "user_input": "I'm feeling Moody.",
+    "mood": "anxious",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:01:34.295667",
+    "user_input": "I'm feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:04:35.257089",
+    "user_input": "I am feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:09:52.102548",
+    "user_input": "Why am I feeling lost?",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:10:59.879569",
+    "user_input": "Am I feeling lost?",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:15:43.774956",
+    "user_input": "Am I feeling lost?",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:16:22.747871",
+    "user_input": "Why am I feeling lost?",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:25:12.697852",
+    "user_input": "Lighten up my mood.",
+    "mood": "calm",
+    "confidence": "Moderately confident"
+  },
+  {
+    "timestamp": "2025-04-05T03:48:52.533274",
+    "user_input": "I'm feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:04:40.831278",
+    "user_input": "I'm feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:09:08.601900",
+    "user_input": "Umm, I'm feeling.",
+    "mood": "calm",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:12:54.189471",
+    "user_input": "Suggest me a few songs to uplift my mood.",
+    "mood": "calm",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:16:48.648020",
+    "user_input": "I'm feeling anxious.",
+    "mood": "anxious",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:29:54.041782",
+    "user_input": "I'm feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T04:36:58.126356",
+    "user_input": "I'm feeling Moody.",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T05:05:08.753491",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T05:06:25.342939",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T05:14:27.107412",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T05:24:56.071827",
+    "user_input": "Hello",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T05:58:15.619850",
+    "user_input": "HI",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:10:39.303177",
+    "user_input": "I'm feeling ecstatic",
+    "mood": "happy",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:11:22.222720",
+    "user_input": "What is the previous query that I asked you",
+    "mood": "calm",
+    "confidence": "Moderately confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:18:01.449076",
+    "user_input": "Thanks",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:26:55.763759",
+    "user_input": "How are you feeling today?",
+    "mood": "sad",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:33:16.384459",
+    "user_input": "Hi",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:39:33.388658",
+    "user_input": "I am feeling low",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:45:21.114112",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": "Extremely confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:47:33.980273",
+    "user_input": "Please bring up my mood",
+    "mood": "calm",
+    "confidence": "Moderately confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:49:34.435282",
+    "user_input": "Please make me laugh",
+    "mood": "happy",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:52:09.527615",
+    "user_input": "lighten the mood",
+    "mood": "calm",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:55:32.062008",
+    "user_input": "Lighten the mood\\",
+    "mood": "calm",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T06:56:30.025927",
+    "user_input": "nothing",
+    "mood": "calm",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T07:07:47.100195",
+    "user_input": "Hi, Can you help me with lightening up my mood",
+    "mood": "happy",
+    "confidence": "Not very confident"
+  },
+  {
+    "timestamp": "2025-04-05T07:33:18.716714",
+    "user_input": "Hi",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T07:33:22.531098",
+    "user_input": "Hi",
+    "mood": "calm",
+    "confidence": "Very confident"
+  },
+  {
+    "timestamp": "2025-04-05T11:30:15.377403",
+    "user_input": "Please bring up my mood",
+    "mood": "calm",
+    "confidence": "Moderately confident"
+  },
+  {
+    "timestamp": "2025-04-05T12:03:35.600780",
+    "user_input": "How is your day",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T12:16:24.649570",
+    "user_input": "Hello",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T12:22:41.712151",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T12:29:33.611846",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T12:37:38.551975",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T12:40:49.354735",
+    "user_input": "Do you know what I am thinking right now",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-05T12:43:35.792370",
+    "user_input": "You are a great friend",
+    "mood": "happy",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T12:49:25.845408",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T12:50:08.221125",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T12:51:40.191435",
+    "user_input": "What do you know about recent super bowl",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T13:05:12.590062",
+    "user_input": "I want to know more about recent Champions Trophy",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T13:06:59.915613",
+    "user_input": "Hi",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T13:11:16.166000",
+    "user_input": "What do you know about recent superbowl",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T13:16:35.530631",
+    "user_input": "do you know more about the recent Super Bowl",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-05T13:20:40.355708",
+    "user_input": "I need information about ICC champions trophy",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T13:26:03.698118",
+    "user_input": "I really don't know why I'm feeling Moody",
+    "mood": "anxious",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T13:27:32.814711",
+    "user_input": "I'm feeling anxious",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T13:28:33.654369",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T13:36:19.313329",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:00:27.597651",
+    "user_input": "feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:01:44.273488",
+    "user_input": "feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:07:48.058184",
+    "user_input": "I am feeling sad today",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:12:37.581208",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:18:34.170681",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:20:57.548379",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:23:14.752834",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:33:14.759709",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:37:56.225753",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:41:32.916912",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T14:45:56.451913",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:07:32.877330",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:27:25.155620",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:28:08.216418",
+    "user_input": "Please lift up my mood",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T15:39:39.453953",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:46:06.854781",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:53:45.194981",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T15:57:14.188640",
+    "user_input": "Tell me about ICC cricket champions trophy",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T15:59:04.086894",
+    "user_input": "lighten up my mood",
+    "mood": "sad",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-05T16:00:30.486725",
+    "user_input": "I am happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:03:39.404089",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:24:45.500279",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:26:15.497381",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:39:22.335407",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:46:37.836780",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:50:26.828301",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T16:51:59.792472",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:01:14.538036",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:02:26.106283",
+    "user_input": "Hi",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T17:02:40.806491",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:04:27.997015",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:07:31.359509",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:11:55.356628",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:14:17.271708",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:14:57.738241",
+    "user_input": "I am horny",
+    "mood": "disgusted",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T17:38:37.476331",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:39:50.571242",
+    "user_input": "I am feeling depressed",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:46:34.872157",
+    "user_input": "I am feelinglonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T17:47:54.129548",
+    "user_input": "Hi,",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T18:00:09.054181",
+    "user_input": "It has been a long day",
+    "mood": "sad",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T18:01:15.233020",
+    "user_input": "Give me the background score of The Batman",
+    "mood": "calm",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T18:02:09.891960",
+    "user_input": "What do you know about Super Bowl",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-05T18:46:00.375212",
+    "user_input": "Hi I am feeing lonely",
+    "mood": "sad",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T18:49:48.915112",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T18:54:24.170255",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T19:08:53.196437",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T19:09:54.208259",
+    "user_input": "Tell me about ICC Champions Trophy",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T19:22:33.400172",
+    "user_input": "I am feeling bored",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T19:23:21.875968",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T19:24:02.555233",
+    "user_input": "Thank you AURA",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T19:58:21.813233",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:02:43.314578",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:18:03.878130",
+    "user_input": "I am feeing sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:22:30.654478",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:28:22.169546",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:29:41.802596",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T20:35:33.032554",
+    "user_input": "I am tired",
+    "mood": "sad",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T20:38:03.546139",
+    "user_input": "I am feeling bored",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:06:17.137209",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:14:19.893072",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:16:08.704419",
+    "user_input": "Please check this",
+    "mood": "calm",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:16:18.113549",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:42:35.385345",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:45:14.173270",
+    "user_input": "Why are you feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T21:58:43.946849",
+    "user_input": "Please help me with my boredom",
+    "mood": "sad",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-05T22:07:44.440282",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T22:13:48.729566",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T22:19:01.286974",
+    "user_input": "I am confused",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-05T22:22:51.080728",
+    "user_input": "I am happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T22:25:33.448511",
+    "user_input": "I really dont know why I am procrastinating things",
+    "mood": "surprised",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-05T22:30:28.081795",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T22:43:09.189681",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T23:06:02.412563",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T23:13:35.659828",
+    "user_input": "I am feeling excited",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-05T23:59:50.047949",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:01:19.120318",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:02:15.212632",
+    "user_input": "I am feeling sad\n",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:15:01.967856",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:17:41.215527",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:23:50.710649",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:34:33.780310",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:52:13.126569",
+    "user_input": "I am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:56:52.096197",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T00:59:39.625058",
+    "user_input": "Lighten up my mood\n",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T01:11:34.160823",
+    "user_input": "Hi, I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T01:12:39.475836",
+    "user_input": "I am confused",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T01:39:01.003341",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T01:40:12.655627",
+    "user_input": "what do you know about ICC Champions Trophy",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T01:42:10.001162",
+    "user_input": "tell me something about Mother's Love",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T01:44:21.781958",
+    "user_input": "why do I feel like I have been floccinaucinihilipilification",
+    "mood": "sad",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T01:45:18.546186",
+    "user_input": "why do I feel pain in my lower abdominal region",
+    "mood": "sad",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T02:33:24.313040",
+    "user_input": "tell me about ICC Champions Trophy",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T02:34:32.907073",
+    "user_input": "what do you know about FIFA World Cup",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T02:38:07.401636",
+    "user_input": "do you know about Brazil FIFA World Cup",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T02:39:21.257809",
+    "user_input": "feeling bored",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T02:52:46.886134",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T03:02:06.704723",
+    "user_input": "I am feeling anxious",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T03:05:09.365203",
+    "user_input": "Hey How you doing\n",
+    "mood": "surprised",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T03:13:57.157935",
+    "user_input": "Hi, I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T03:15:55.856561",
+    "user_input": "Tell me about Marvel Cinematic Universe Origin",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T03:17:27.736584",
+    "user_input": "What are the upcoming mcu movies\n",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T03:19:07.686548",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T03:27:25.878774",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T03:28:59.287280",
+    "user_input": "tell me more about IPL ",
+    "mood": "anxious",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T03:29:49.262468",
+    "user_input": "Tell me about IPL",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T03:31:38.887665",
+    "user_input": "I want to know about Sachin Tendulkar",
+    "mood": "calm",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T03:56:58.780859",
+    "user_input": "Please tell me about ICC Champions Trophy",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T04:06:17.339162",
+    "user_input": "Hi, I am feeling bored",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T04:13:41.435735",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T04:18:53.070144",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T04:39:04.136877",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T04:45:32.380427",
+    "user_input": "I am feeling bored",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T04:51:26.082481",
+    "user_input": "I am feeling loney",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T05:20:38.981243",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T05:21:39.243756",
+    "user_input": "I am feeing bored",
+    "mood": "sad",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T05:38:46.566749",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T05:39:50.474152",
+    "user_input": "I am feeling confused\n",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T05:40:55.969498",
+    "user_input": "I am feeling shy",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T05:50:19.729269",
+    "user_input": "Hello",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T05:56:49.281047",
+    "user_input": " I am happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T06:01:58.287832",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest?",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T06:06:31.675834",
+    "user_input": "If I asked you to write me a love letter from the future\u2014where you and I have drifted apart but still think of each other every now and then\u2014and I want it to be optimistic but also filled with nostalgia and regret, how would you write it? It has to feel like closure, but not goodbye. Like a dream I can visit, but not stay in. And while you're at it, make sure it\u2019s both entirely fictional and deeply personal to me. Can you do that?\n",
+    "mood": "calm",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T06:13:14.651301",
+    "user_input": "If I asked you to write me a love letter from the future\u2014where you and I have drifted apart but still think of each other every now and then\u2014and I want it to be optimistic but also filled with nostalgia and regret, how would you write it? It has to feel like closure, but not goodbye. Like a dream I can visit, but not stay in. And while you're at it, make sure it\u2019s both entirely fictional and deeply personal to me. Can you do that?",
+    "mood": "sad",
+    "confidence": 0.4
+  },
+  {
+    "timestamp": "2025-04-06T06:14:54.990223",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T06:16:51.678872",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest?",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T06:17:33.829121",
+    "user_input": "What s your name\n",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T06:21:07.501520",
+    "user_input": "What do you know about recent IPL Matches",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T06:24:25.870477",
+    "user_input": "what is your name",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:35:21.871036",
+    "user_input": "What is your name",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:37:04.868704",
+    "user_input": "What is your name",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:37:48.759545",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:40:47.643494",
+    "user_input": "In the soft hush of this moment, your words hang like whispers in fog, inviting contemplation.... You ask questions that touch upon not only the nature of emotions, but the very essence of what it means to connect, to feel, to exist. Emotions, as you perceive them, are like dancing shadows on the wall of experience, elusive and yet deeply felt? \ud83c\udf31",
+    "mood": "anxious",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-04-06T11:41:29.512621",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest\n",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:42:58.116664",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:50:37.054048",
+    "user_input": "\nI am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T11:52:21.936411",
+    "user_input": "What is your name\n",
+    "mood": "calm",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T11:54:23.565459",
+    "user_input": "I am feeling moody\n",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T11:57:40.100231",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:08:06.286096",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:10:02.164523",
+    "user_input": "I am feelign moody",
+    "mood": "sad",
+    "confidence": 0.85
+  },
+  {
+    "timestamp": "2025-04-06T12:10:50.129323",
+    "user_input": "\nI am feeling moody",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:17:06.777175",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:19:20.738012",
+    "user_input": "I am feeling elated",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:23:12.931276",
+    "user_input": "I am feeling a bit anxious",
+    "mood": "anxious",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:53:21.195423",
+    "user_input": "I am feeling better\n\n",
+    "mood": "happy",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:54:05.472333",
+    "user_input": "\nI am feeling sad",
+    "mood": "sad",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-04-06T12:56:33.680546",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "confidence": 0.95
+  }
+]

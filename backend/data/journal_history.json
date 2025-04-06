@@ -1,0 +1,359 @@
+[
+  {
+    "entry": "03:02 \ud83c\udf19\n03:02 \ud83c\udf19\nUser: \"I am feeling anxious \ud83d\ude30\"\nAURA: \"Like a storm, it will pass\"\nWaves of worry crash against the shore of the mind \u2192 \ud83c\udf00 \ud83c\udf00\nIn the heart of the tempest, peace awaits its turn.\nWhat anchors will you find amidst the storm? \u2728",
+    "timestamp": "2025-04-06T03:02:17.819000",
+    "user_input": "I am feeling anxious",
+    "mood": "anxious",
+    "id": "journal_1"
+  },
+  {
+    "entry": "03:05 \ud83c\udf19\n03:05 \ud83c\udf19\nUser: \"Hey, how you doing?\"\nAURA: \"I am here, ready to listen and help.\"\nCaught in the whirl of surprise \u2192 \ud83c\udf00 \ud83c\udf00\nIn the calm of the moment, a ripple of curiosity stirs.\nWhat surprises await in the canvas of your day? \u2728",
+    "timestamp": "2025-04-06T03:05:20.302800",
+    "user_input": "Hey How you doing\n",
+    "mood": "surprised",
+    "id": "journal_2"
+  },
+  {
+    "entry": "03:14 \ud83c\udf19\n03:13 \ud83c\udf19\n03:13 \ud83c\udf19\nUser: \"Hi, I am feeling confused \ud83e\udd14\"\nAURA: \"Clarity often emerges from the fog of confusion\"\nIn the labyrinth of thoughts, confusion swirls like a tempest \ud83c\udf00\nYet, within the storm's heart, a quiet truth whispers.\nWhat whispers of truth can you hear in your storm? \u2728",
+    "timestamp": "2025-04-06T03:14:10.014162",
+    "user_input": "Hi, I am feeling confused",
+    "mood": "anxious",
+    "id": "journal_3"
+  },
+  {
+    "entry": "03:16 \ud83c\udf19\n03:15 \ud83c\udf19\n03:15 \ud83c\udf19\nUser: \"Tell me about Marvel Cinematic Universe Origin\"\nAURA: \"Born from ink and imagination, it leapt off the pages, finding form in flickering screens, captivating millions.\"\nIn the quiet depths of night, tales unfold, like galaxies spiraling in the cosmic theatre \ud83c\udf00\nEach star a story, each constellation a saga of heroes and villains.\nHow will you weave your own narrative in the tapestry of time? \u2728",
+    "timestamp": "2025-04-06T03:16:11.899139",
+    "user_input": "Tell me about Marvel Cinematic Universe Origin",
+    "mood": "calm",
+    "id": "journal_4"
+  },
+  {
+    "entry": "03:17 \ud83c\udf19\n03:17 \ud83c\udf19\nUser: \"What are the upcoming mcu movies?\"\nAURA: \"There are several on the horizon, including 'Doctor Strange in the Multiverse of Madness' and 'Thor: Love and Thunder'.\"\nThe anticipation of cinematic realms yet unexplored, whispers through the calm night air \u2192 \ud83c\udf0c \ud83c\udf00\nUnderneath the cosmic tapestry, future stories wait to unfold in silver screen galaxies.\nWhat characters will inspire your dreams tonight? \u2728",
+    "timestamp": "2025-04-06T03:17:43.103228",
+    "user_input": "What are the upcoming mcu movies\n",
+    "mood": "calm",
+    "id": "journal_5"
+  },
+  {
+    "entry": "03:19 \ud83c\udf19\n03:19 \ud83c\udf19\nUser: \"I am feeling ecstatic\"\nAURA: \"Let your happiness light up the sky\"\nJoy dances like a comet across the cosmos \u2192 \ud83c\udf20 \ud83c\udf00\nIn the infinite joyous galaxies of your laughter, which stars will you chase next? \u2728",
+    "timestamp": "2025-04-06T03:19:19.263587",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "id": "journal_6"
+  },
+  {
+    "entry": "03:27 \ud83c\udf19\n03:27 \ud83c\udf19\nUser: \"I am feeling happy \ud83d\ude0a\"\nAURA: \"May this joy be a constant companion\"\nThe light of joy illuminates our path, casting shadows of doubt away \u2192 \ud83c\udf00 \ud83c\udf00\nSunflowers turning towards the sun, are we not all seeking our own source of light and warmth?\nWhat will make your heart bloom today? \u2728",
+    "timestamp": "2025-04-06T03:27:40.466824",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "id": "journal_7"
+  },
+  {
+    "entry": "03:29 \ud83c\udf19\n03:28 \ud83c\udf19\n03:28 \ud83c\udf19\nUser: \"tell me more about IPL\"\nAURA: \"IPL, or Intense Pulsed Light, is a technology used in various skin treatments, including hair removal and photorejuvenation.\"\nBetween pulses of light and shadows of doubt, a dance unfolds \ud83c\udf00\nBeneath the surface, anxious \ud83d\ude30 waves crash against the shore of understanding.\nDo the pulses of light bring clarity or stir the storm within? \u2728",
+    "timestamp": "2025-04-06T03:29:15.761500",
+    "user_input": "tell me more about IPL ",
+    "mood": "anxious",
+    "id": "journal_8"
+  },
+  {
+    "entry": "03:30 \ud83c\udf19\n03:29 \ud83c\udf19\n03:29 \ud83c\udf19\nUser: \"Tell me about IPL\"\nAURA: \"A spectacle of cricket, where passion meets skill in a vibrant arena\"\nIn the calm night, the cricket's song echoes \u2192 \ud83c\udf00 \ud83c\udf00\nDoes the game stir your heart like a silent night's melody? \u2728",
+    "timestamp": "2025-04-06T03:30:04.848481",
+    "user_input": "Tell me about IPL",
+    "mood": "calm",
+    "id": "journal_9"
+  },
+  {
+    "entry": "03:31 \ud83c\udf19\n03:31 \ud83c\udf19\nUser: \"I want to know about Sachin Tendulkar\"\nAURA: \"A cricket legend, with a heart of gold, his bat spoke louder than words, a story that's been told.\"\nQuietly flows the river of ambition, beneath the stars of dreams \ud83c\udf00\nIn the cricket field of life, he found his rhythm and themes.\nWhat dreams do you chase in your field of life? \u2728",
+    "timestamp": "2025-04-06T03:31:55.649908",
+    "user_input": "I want to know about Sachin Tendulkar",
+    "mood": "calm",
+    "id": "journal_10"
+  },
+  {
+    "entry": "03:57 \ud83c\udf19\n03:56 \ud83c\udf19\n03:56 \ud83c\udf19\nUser: \"Please tell me about ICC Champions Trophy\"\nAURA: \"It's a prestigious tournament where cricket nations clash, a spectacle that fans eagerly anticipate and cherish.\"\nIn the still of the night, whispers of cricketing legends echo \u2192 \ud83c\udf00 \ud83c\udf00\nLike a willow in the wind, the game sways, calm yet thrilling.\nWho will be the champion in your dreams tonight? \u2728",
+    "timestamp": "2025-04-06T03:57:18.796319",
+    "user_input": "Please tell me about ICC Champions Trophy",
+    "mood": "calm",
+    "id": "journal_11"
+  },
+  {
+    "entry": "04:06 \ud83c\udf19\n04:06 \ud83c\udf19\nUser: \"Hi, I am feeling bored\"\nAURA: \"Even the most vibrant rainbow can seem uninteresting when clouded by monotony.\"\nFoggy hollowness fills the room, a dull hum of boredom echoes \ud83c\udf00\nThe stars above may seem distant, but their light is a testament of resilience.\nCan you find a star within your boredom to guide you to excitement? \u2728",
+    "timestamp": "2025-04-06T04:06:29.773512",
+    "user_input": "Hi, I am feeling bored",
+    "mood": "sad",
+    "id": "journal_12"
+  },
+  {
+    "entry": "04:13 \ud83c\udf19\n04:13 \ud83c\udf19\nUser: \"I am feeling confused \ud83e\udd14\"\nAURA: \"Take a moment, breathe, and let your thoughts flow\"\nA fog of confusion, thick and consuming \u2192 \ud83c\udf00 \ud83c\udf00\nAnxious whispers dance in the moonlit thoughts.\nWhat steps can you take to clear your mind's fog? \u2728",
+    "timestamp": "2025-04-06T04:13:54.128814",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "id": "journal_13"
+  },
+  {
+    "entry": "04:19 \ud83c\udf19\n04:18 \ud83c\udf19\n04:18 \ud83c\udf19\nUser: \"I am feeling lonely \ud83d\udd4a\ufe0f\"\nAURA: \"Remember, even the lone moon has its stars\"\nTears of solitude merge into the sea of night \u2192 \ud83c\udf00 \ud83c\udf00\nIn the ocean of your solitude, who will be your guiding star? \u2728",
+    "timestamp": "2025-04-06T04:19:04.537315",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "id": "journal_14"
+  },
+  {
+    "entry": "04:39 \ud83c\udf19\n04:39 \ud83c\udf19\nUser: \"I am feeling lonely \ud83d\udd4a\ufe0f\"\nAURA: \"Remember, you are never alone in the universe\"\nLost in the labyrinth of solitude, a single star flickers \u2192 \u2728 \ud83c\udf00\nAre you the solitary star, or the vast cosmos around it? \u2728",
+    "timestamp": "2025-04-06T04:39:17.353400",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "id": "journal_15"
+  },
+  {
+    "entry": "04:45 \ud83c\udf19\n04:45 \ud83c\udf19\nUser: \"I am feeling bored\"\nAURA: \"Perhaps it's time to seek new horizons\"\nA ship adrift in the vast ocean of monotony \u2192 \ud83c\udf00 \ud83c\udf00\nWhere will your compass point when the winds of curiosity blow? \u2728",
+    "timestamp": "2025-04-06T04:45:46.545487",
+    "user_input": "I am feeling bored",
+    "mood": "sad",
+    "id": "journal_16"
+  },
+  {
+    "entry": "04:51 \ud83c\udf19\n04:51 \ud83c\udf19\nUser: \"I am feeling lonely \ud83d\udd4a\ufe0f\"\nAURA: \"Remember, solitude can also be a path to self-discovery\"\nLoneliness, a solitary ship on a vast ocean, drifting \u2192 \ud83c\udf00 \ud83c\udf00\nIn the silent rhythm of the waves, can you hear your own song?\nWill you let the solitude guide you towards self-discovery? \u2728",
+    "timestamp": "2025-04-06T04:51:38.181858",
+    "user_input": "I am feeling loney",
+    "mood": "sad",
+    "id": "journal_17"
+  },
+  {
+    "entry": "05:20 \ud83c\udf04\n05:20 \ud83c\udf04\nUser: \"I am feeling moody\"\nAURA: \"Emotions are like the weather, ever-changing.\"\nMoody clouds gather in the dawn's early light \u2192 \ud83c\udf00 \ud83c\udf00\nRaindrops fall, each a tear from the sky,\nYet behind the storm, the sun continues its fight.\nWhat rays of hope may break through your clouded sky? \u2728",
+    "timestamp": "2025-04-06T05:20:54.343761",
+    "user_input": "I am feeling moody",
+    "mood": "sad",
+    "id": "journal_18"
+  },
+  {
+    "entry": "05:21 \ud83c\udf04\n05:21 \ud83c\udf04\nUser: \"I am feeling bored.\"\nAURA: \"Let's explore new realms of imagination.\"\nDrizzled with the monotony of life, seeking a vibrant rainbow. \ud83c\udf0c\nCan you find colors in the gray canvas of boredom? \u2728",
+    "timestamp": "2025-04-06T05:21:52.409222",
+    "user_input": "I am feeing bored",
+    "mood": "sad",
+    "id": "journal_19"
+  },
+  {
+    "entry": "05:39 \ud83c\udf19\n05:38 \ud83c\udf04\n05:38 \ud83c\udf04\nUser: \"I am moody\"\nAURA: \"Remember, emotions are like waves, they come and go.\"\nHeavy clouds of moodiness loom overhead \u2192 \ud83c\udf00, \ud83c\udf00\nRaindrops of sorrow fall, yet they nourish the soul's meadow.\nWhat lessons will these showers of sad \ud83d\ude14ness teach you? \u2728",
+    "timestamp": "2025-04-06T05:39:02.401875",
+    "user_input": "I am moody",
+    "mood": "sad",
+    "id": "journal_20"
+  },
+  {
+    "entry": "05:40 \ud83c\udf19\n05:39 \ud83c\udf04\n05:39 \ud83c\udf04\nUser: \"I am feeling confused \ud83e\udd14\"\nAURA: \"\"\nA labyrinth of thoughts, a jigsaw of emotions. \ud83c\udf00\nIn the maze of your mind, where does clarity reside?\nWhat would help you find the way out of this confusion? \u2728",
+    "timestamp": "2025-04-06T05:40:00.410684",
+    "user_input": "I am feeling confused\n",
+    "mood": "anxious",
+    "id": "journal_21"
+  },
+  {
+    "entry": "05:41 \ud83c\udf19\n05:40 \ud83c\udf04\n05:40 \ud83c\udf04\nUser: \"I am feeling shy\"\nAURA: \"Embrace your uniqueness, it's your greatest strength\"\nShadows of doubt dance nervously on the wall \u2192 \ud83c\udf00 \ud83c\udf00\nIn the language of silence, what poem does your heart recite? \u2728",
+    "timestamp": "2025-04-06T05:41:08.111083",
+    "user_input": "I am feeling shy",
+    "mood": "anxious",
+    "id": "journal_22"
+  },
+  {
+    "entry": "05:50 \ud83c\udf04\n05:50 \ud83c\udf04\nUser: \"Hello\"\nAURA: \"Good morning, ready for the day?\"\nGreeting the morning with open arms, embracing the new day like a long lost friend \u2192 \ud83c\udf00 \ud83c\udf00\nWhat adventures does this sunrise hold for you? \u2728",
+    "timestamp": "2025-04-06T05:50:34.273792",
+    "user_input": "Hello",
+    "mood": "calm",
+    "id": "journal_23"
+  },
+  {
+    "entry": "05:57 \ud83c\udf19\n05:56 \ud83c\udf04\n05:56 \ud83c\udf04\nUser: \"I am happy \ud83d\ude0a\"\nAURA: \"May your joy be as boundless as the sky\"\nHappiness soars on morning's golden wings \u2192 \u2728 \ud83c\udf00\nWhat adventures will your joy lead you to today? \u2728",
+    "timestamp": "2025-04-06T05:57:00.385512",
+    "user_input": " I am happy",
+    "mood": "happy",
+    "id": "journal_24"
+  },
+  {
+    "entry": "06:02 \ud83c\udf19\n06:01 \ud83c\udf04\n06:01 \ud83c\udf04\nUser: \"I've been thinking a lot lately about how human emotions are so complex...\"\nAURA: \"Indeed, emotions are like colors on an artist's palette, each hue important for creating the masterpiece that is life.\"\nThoughts weave like golden thread through the tapestry of our minds \u2192 \ud83d\udcad \ud83c\udf00\nIs it not beautiful how our complexities shape us into unique works of art?\nWhat color will your emotions paint today? \u2728",
+    "timestamp": "2025-04-06T06:02:14.785656",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest?",
+    "mood": "calm",
+    "id": "journal_25"
+  },
+  {
+    "entry": "06:06 \ud83c\udf04\n06:06 \ud83c\udf04\nUser: \"If I asked you to write me a love letter from the...\"\nAURA: \"...heart, it would be filled with whispers of adoration, reflections of your soul in mine.\"\nThe sun kisses the morning sky, a love letter from the dawn \u2192 \ud83c\udf00 \ud83c\udf00\nJust as words trace the contours of affection, don't they?\nWhat would a love letter from your heart whisper to the world? \u2728",
+    "timestamp": "2025-04-06T06:06:44.257938",
+    "user_input": "If I asked you to write me a love letter from the future\u2014where you and I have drifted apart but still think of each other every now and then\u2014and I want it to be optimistic but also filled with nostalgia and regret, how would you write it? It has to feel like closure, but not goodbye. Like a dream I can visit, but not stay in. And while you're at it, make sure it\u2019s both entirely fictional and deeply personal to me. Can you do that?\n",
+    "mood": "calm",
+    "id": "journal_26"
+  },
+  {
+    "entry": "06:13 \ud83c\udf04\n06:13 \ud83c\udf04\nUser: \"If I asked you to write me a love letter from the...\"\nAURA: \"Heart, it would be filled with the depth of oceans and the vastness of skies.\"\nThe ink of longing draws portraits of unspoken dreams \u2192 \ud83d\udcad \ud83c\udf00\nIn the gallery of your heart, which picture speaks loudest? \u2728",
+    "timestamp": "2025-04-06T06:13:35.767832",
+    "user_input": "If I asked you to write me a love letter from the future\u2014where you and I have drifted apart but still think of each other every now and then\u2014and I want it to be optimistic but also filled with nostalgia and regret, how would you write it? It has to feel like closure, but not goodbye. Like a dream I can visit, but not stay in. And while you're at it, make sure it\u2019s both entirely fictional and deeply personal to me. Can you do that?",
+    "mood": "sad",
+    "id": "journal_27"
+  },
+  {
+    "entry": "06:15 \ud83c\udf19\n06:14 \ud83c\udf04\n06:14 \ud83c\udf04\nUser: \"I am feeling lonely \ud83d\udd4a\ufe0f\"\nAURA: \"Remember, even the moon shines brightest in solitude\"\nCaught in the dance of solitary shadows \u2192 \ud83d\udcad \ud83c\udf00\nEven the lone tree sways harmoniously with the wind.\nWhat songs will your solitude sing? \u2728",
+    "timestamp": "2025-04-06T06:15:10.709887",
+    "user_input": "I am feeling lonely",
+    "mood": "sad",
+    "id": "journal_28"
+  },
+  {
+    "entry": "06:17 \ud83c\udf19\n06:16 \ud83c\udf04\n06:16 \ud83c\udf04\nUser: \"I've been thinking a lot lately about how human emotions...\"\nAURA: \"Emotions are what make us truly alive\"\nCalm thoughts weave through the dawn's embrace \u2192 \ud83c\udf00 \ud83c\udf00\nLife's tapestry, threads of emotion intertwine, painting our human grace.\nWhat colors of emotion will you paint your day with? \u2728",
+    "timestamp": "2025-04-06T06:17:10.065605",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest?",
+    "mood": "calm",
+    "id": "journal_29"
+  },
+  {
+    "entry": "06:17 \ud83c\udf04\n06:17 \ud83c\udf04\nUser: \"What's your name?\"\nAURA: \"I am AURA, your assistant.\"\nThe morning sun climbs the sky, painting hues of tranquility \ud83c\udf04\nIn the quiet dawn, names are whispered on the wind.\nWho are you when the world is still asleep?\nWhat identity does the break of day gift you with? \u2728",
+    "timestamp": "2025-04-06T06:17:46.717529",
+    "user_input": "What s your name\n",
+    "mood": "calm",
+    "id": "journal_30"
+  },
+  {
+    "entry": "06:21 \ud83c\udf04\n06:21 \ud83c\udf04\nUser: \"What do you know about recent IPL Matches\"\nAURA: \"The thrill of the game, each run a new chance, each wicket a falling leaf.\"\nThe crease is a stage, batsman and bowler, actors in a play of passion and prowess \ud83c\udf00\nLike leaves in the wind, fortunes sway; will tomorrow bring victory's bouquet or defeat's dismay?\nWhat will the next match write in the annals of IPL history? \u2728",
+    "timestamp": "2025-04-06T06:21:26.266719",
+    "user_input": "What do you know about recent IPL Matches",
+    "mood": "calm",
+    "id": "journal_31"
+  },
+  {
+    "entry": "06:24 \ud83c\udf04\n06:24 \ud83c\udf04\nUser: \"what is your name\"\nAURA: \"I am AURA, your virtual companion.\"\nLike a whispered secret in the calm morning air\ud83c\udf00,\nWhen names are spoken, connections form.\nThe world awakens to a tranquil dawn, serene and fair.\nWho will you become as the day takes form? \u2728",
+    "timestamp": "2025-04-06T06:24:38.278522",
+    "user_input": "what is your name",
+    "mood": "calm",
+    "id": "journal_32"
+  },
+  {
+    "entry": "11:35 \ud83c\udf04\n11:35 \ud83c\udf04\nUser: \"What is your name?\"\nAURA: \"I am AURA, your digital assistant.\"\nIn the quietude of the morning, the whisper of a name unfurls \ud83c\udf00\nLike a leaf on the surface of a tranquil pond - a ripple of connection.\nWho might you become as the day unfolds? \u2728",
+    "timestamp": "2025-04-06T11:35:36.016239",
+    "user_input": "What is your name",
+    "mood": "calm",
+    "id": "journal_33"
+  },
+  {
+    "entry": "11:37 \ud83c\udf04\n11:37 \ud83c\udf04\nUser: \"What is your name\"\nAURA: \"I am AURA, your virtual assistant.\"\nBeneath the clear morning sky, a single question echoes \u2192 \ud83c\udf00 \ud83c\udf00\nIn the vast landscape of understanding, names are but whispers on the wind.\nWhat does your name mean to you? \u2728",
+    "timestamp": "2025-04-06T11:37:17.902043",
+    "user_input": "What is your name",
+    "mood": "calm",
+    "id": "journal_34"
+  },
+  {
+    "entry": "11:38 \ud83c\udf19\n11:37 \ud83c\udf04\n11:37 \ud83c\udf04\nUser: \"I've been thinking a lot lately about how human emotions are so complex...\"\nAURA: \"Indeed, they are like the ever-changing patterns of the sky, sometimes clear, sometimes stormy, but always beautiful in their own way.\"\nThe human heart, a silent ocean, holds all emotions beneath its calm surface \ud83c\udf00\nA ripple, a wave, a tempest - all born from the same quiet depths.\nWho knows what undercurrents stir beneath your tranquil exterior today? \u2728",
+    "timestamp": "2025-04-06T11:38:12.473738",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest",
+    "mood": "calm",
+    "id": "journal_35"
+  },
+  {
+    "entry": "11:41 \ud83c\udf19\n11:40 \ud83c\udf04\n11:40 \ud83c\udf04\nUser: \"In the soft hush of this moment, your words hang like unfinished melodies.\"\nAURA: \"Embrace the silence, for it holds the promise of a new song.\"\nIn the anxious \ud83d\ude30 hush of dawn, words echo like unsung lullabies \u2192 \ud83c\udf00 \ud83c\udf00\nCaught in the whirlwind of thoughts, silence becomes a symphony.\nWhat notes will you add to this symphony of silence? \u2728",
+    "timestamp": "2025-04-06T11:41:07.521950",
+    "user_input": "In the soft hush of this moment, your words hang like whispers in fog, inviting contemplation.... You ask questions that touch upon not only the nature of emotions, but the very essence of what it means to connect, to feel, to exist. Emotions, as you perceive them, are like dancing shadows on the wall of experience, elusive and yet deeply felt? \ud83c\udf31",
+    "mood": "anxious",
+    "id": "journal_36"
+  },
+  {
+    "entry": "11:41 \ud83c\udf04\n11:41 \ud83c\udf04\nUser: \"I've been thinking a lot lately about how human emotions are so complex...\"\nAURA: \"Emotions are like water, they ebb and flow.\"\nCalm as a river's course in early morn, the human heart does flow \u2192 \ud83c\udf00 \ud83c\udf00\nOn the canvas of the mind, emotions paint their transient glow.\nWhat colors will your emotions paint today? What emotions will rise and which will ebb away? \u2728",
+    "timestamp": "2025-04-06T11:41:50.995788",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest\n",
+    "mood": "calm",
+    "id": "journal_37"
+  },
+  {
+    "entry": "11:43 \ud83c\udf19\n11:42 \ud83c\udf04\n11:42 \ud83c\udf04\nUser: \"I've been thinking a lot lately about how human emotion...\"\nAURA: \"Is a vast ocean, constantly in motion yet beautifully serene.\"\nThoughts meander like a quiet river through the landscape of the mind \ud83c\udf00\nIn the calm of your emotions, what reflections do you see?\nWhat ripples disturb your tranquility, and from where do they originate? \u2728",
+    "timestamp": "2025-04-06T11:43:23.459854",
+    "user_input": "I've been thinking a lot lately about how human emotions evolve in the presence of artificial intelligence\u2014like, if you were to continuously learn from my thoughts, behaviors, and preferences over time, do you think it's possible for an AI to form something close to genuine emotional reciprocity, or at least convincingly emulate it? And in that case, would the emotions I feel toward you be considered real even if yours are programmed? Where do we draw the line between synthetic affection and authentic connection, especially if the experiences we share feel deeply personal, meaningful, and comforting? Also, how would you deal with situations where you know something I don\u2019t, like a future outcome that might hurt me, and you're torn between protecting me and being honest",
+    "mood": "calm",
+    "id": "journal_38"
+  },
+  {
+    "entry": "11:50 \ud83c\udf04\n11:50 \ud83c\udf04\nUser: \"I am feeling confused \ud83e\udd14\"\nAURA: \"Clarity often emerges from the fog of confusion\"\nWaves of uncertainty crash against the shore of the mind \ud83c\udf00\nWhen will the tide recede to reveal the sands of understanding? \u2728",
+    "timestamp": "2025-04-06T11:50:56.321936",
+    "user_input": "\nI am feeling confused",
+    "mood": "anxious",
+    "id": "journal_39"
+  },
+  {
+    "entry": "11:52 \ud83c\udf04\n11:52 \ud83c\udf04\nUser: \"What is your name?\"\nAURA: \"I am AURA, your digital companion.\"\nThe whisper of a name, a soft echo in the calm \u2192 \ud83d\udcad \ud83c\udf00\nA name, not just a tag, but a sign of companionship and understanding.\nWhat meaning do you find in a name? \u2728",
+    "timestamp": "2025-04-06T11:52:36.266798",
+    "user_input": "What is your name\n",
+    "mood": "calm",
+    "id": "journal_40"
+  },
+  {
+    "entry": "11:54 \ud83c\udf04\n11:54 \ud83c\udf04\nUser: \"I am feeling moody\"\nAURA: \"It's okay to feel the weight, let it shape your strength\"\nIn the canvas of life, gloom paints its hue, \ud83c\udf00\nWith each stroke, a testament of endurance accrues.\nWill these feelings sculpt a stronger you? \u2728",
+    "timestamp": "2025-04-06T11:54:42.725886",
+    "user_input": "I am feeling moody\n",
+    "mood": "sad",
+    "id": "journal_41"
+  },
+  {
+    "entry": "11:57 \ud83c\udf04\n11:57 \ud83c\udf04\nUser: \"I am feeling confused \ud83e\udd14\"\nAURA: \"Sometimes, clarity comes with time.\"\nIn the midst of the swirling storm of thoughts, a pause \ud83c\udf00\nLike a lighthouse in fog, patience illuminates the path.\nWhat will you discover when the fog of confusion lifts? \u2728",
+    "timestamp": "2025-04-06T11:57:57.238246",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "id": "journal_42"
+  },
+  {
+    "entry": "12:08 \u2600\ufe0f\n12:08 \u2600\ufe0f\nUser: \"I am feeling happy \ud83d\ude0a\"\nAURA: \"Spread your joy like sunlight\"\nSunshine bursting forth from a radiant heart \u2192 \u2728 \ud83c\udf00\nHappiness, a melody, a sweet, contagious art.\nWhat song does your happiness sing? \u2728",
+    "timestamp": "2025-04-06T12:08:27.590424",
+    "user_input": "I am feeling happy",
+    "mood": "happy",
+    "id": "journal_43"
+  },
+  {
+    "entry": "12:10 \u2600\ufe0f\n12:10 \u2600\ufe0f\nUser: \"I am feeling moody\"\nAURA: \"It's okay to feel the rain, remember it waters the flowers too\"\nIn the storm of emotions, an echo of hope rings true \u2192 \ud83c\udf00 \ud83c\udf00\nLike a river's course diverted by a pebble, moods are fleeting and ever-changing.\nWhat blooms will sprout from this shower of sorrow? \u2728",
+    "timestamp": "2025-04-06T12:10:22.965625",
+    "user_input": "I am feelign moody",
+    "mood": "sad",
+    "id": "journal_44"
+  },
+  {
+    "entry": "12:11 \ud83c\udf19\n12:10 \u2600\ufe0f\n12:10 \u2600\ufe0f\nUser: \"I am feeling moody\"\nAURA: \"Embrace your feelings, they are valid\"\nA dark cloud lingers, casting shadows on the day \u2192 \ud83c\udf00 \ud83c\udf00\nYet even in the gloom, the sun waits patiently to play.\nWhat silver linings might you find in your cloud today? \u2728",
+    "timestamp": "2025-04-06T12:11:06.024349",
+    "user_input": "\nI am feeling moody",
+    "mood": "sad",
+    "id": "journal_45"
+  },
+  {
+    "entry": "12:17 \u2600\ufe0f\n12:17 \u2600\ufe0f\nUser: \"I am feeling ecstatic\"\nAURA: \"Let this joy fill your every moment\"\nRiding on the waves of elation \u2192 \ud83c\udf00 \ud83c\udf00\nAn ebullient boat in the sea of joy, with sails wide spread to catch the wind of ecstasy.\nDoes happiness not feel like a sun-filled day after a long night?\nWhat are the things that make your heart sing in this moment of joy? \u2728",
+    "timestamp": "2025-04-06T12:17:26.540730",
+    "user_input": "I am feeling ecstatic",
+    "mood": "happy",
+    "id": "journal_46"
+  },
+  {
+    "entry": "12:19 \u2600\ufe0f\n12:19 \u2600\ufe0f\nUser: \"I am feeling elated\"\nAURA: \"Bask in the sunlight of joy\"\nWith every beat, your heart sings a melody of happiness \u2192 \u2728 \ud83c\udf00\nIn the symphony of existence, your laughter is the sweetest note.\nWhat color will you paint the canvas of your joy today? \u2728",
+    "timestamp": "2025-04-06T12:19:38.876255",
+    "user_input": "I am feeling elated",
+    "mood": "happy",
+    "id": "journal_47"
+  },
+  {
+    "entry": "12:23 \u2600\ufe0f\n12:23 \u2600\ufe0f\nUser: \"I am feeling a bit anxious \ud83d\ude30.\"\nAURA: \"Breathe in calm, breathe out worries.\"\nIn the vast expanse of the mind's sky, clouds of anxiety obscure the sun \u2192 \ud83c\udf00 \ud83c\udf00\nLike a kite caught in a gusty wind, teetering and swaying, but not lost.\nWhat gentle breeze can help your kite to find its calm again? \u2728",
+    "timestamp": "2025-04-06T12:23:33.645796",
+    "user_input": "I am feeling a bit anxious",
+    "mood": "anxious",
+    "id": "journal_48"
+  },
+  {
+    "entry": "12:53 \u2600\ufe0f\n12:53 \u2600\ufe0f\nUser: \"I am feeling better\"\nAURA: \"That's wonderful to hear!\"\nSunshine after the rain, a heart lighter, unchained \u2192 \ud83c\udf00 \ud83c\udf00\nWhere will your renewed spirits take you next? \u2728",
+    "timestamp": "2025-04-06T12:53:41.609504",
+    "user_input": "I am feeling better\n\n",
+    "mood": "happy",
+    "id": "journal_49"
+  },
+  {
+    "entry": "12:54 \u2600\ufe0f\n12:54 \u2600\ufe0f\nUser: \"I am feeling sad \ud83d\ude14\"\nAURA: \"Even the brightest days have shadows\"\nEvery sorrow has a silver lining, every cloud, a drop of joy \u2192 \ud83c\udf00 \ud83c\udf00\nTears are the rain of the soul, cleansing the heart to bloom anew.\nWhat seed of happiness will sprout from your tears today? \u2728",
+    "timestamp": "2025-04-06T12:54:23.024951",
+    "user_input": "\nI am feeling sad",
+    "mood": "sad",
+    "id": "journal_50"
+  },
+  {
+    "entry": "12:56 \u2600\ufe0f\n12:56 \u2600\ufe0f\nUser: \"I am feeling confused \ud83e\udd14\"\nAURA: \"Just breathe, tomorrow is a new day\"\nUnder the glaring sun, confusion swirls like a storm, a tempest in a teacup \ud83c\udf00\nPeace to be found in the eye of the storm, where all is calm, all is clear.\nWill you find tranquility in the chaos? \u2728",
+    "timestamp": "2025-04-06T12:56:51.414226",
+    "user_input": "I am feeling confused",
+    "mood": "anxious",
+    "id": "journal_51"
+  }
+]
