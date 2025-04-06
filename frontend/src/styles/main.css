@@ -1,0 +1,225 @@
+/* Main styling for AURA frontend */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+#root {
+  height: 100vh;
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* Loading animations */
+@keyframes pulse {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.95);
+    opacity: 0.7;
+  }
+}
+
+.pulse-animation {
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* Message animation */
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.message-enter {
+  animation: fadeSlideIn 0.3s forwards;
+}
+
+/* Agent Status Indicator Styles */
+.status-indicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.status-pending {
+  background-color: #9e9e9e; /* Gray */
+}
+
+.status-working {
+  background-color: #ff9800; /* Orange */
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+.status-complete {
+  background-color: #4caf50; /* Green */
+}
+
+.status-error {
+  background-color: #f44336; /* Red */
+}
+
+/* Agent Progress Bar Animation */
+@keyframes progressAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.agent-progress-bar {
+  background: linear-gradient(90deg, 
+    rgba(33, 150, 243, 0.8), 
+    rgba(76, 175, 80, 0.8), 
+    rgba(33, 150, 243, 0.8)
+  );
+  background-size: 200% 200%;
+  animation: progressAnimation 2s ease infinite;
+  height: 8px;
+  border-radius: 4px;
+}
+
+/* Agent Card Transitions */
+.agent-card {
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.agent-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Audio Wave Animation for Agent Processing */
+@keyframes wave {
+  0%, 100% {
+    transform: scaleY(0.5);
+  }
+  50% {
+    transform: scaleY(1.5);
+  }
+}
+
+.audio-wave-bar {
+  display: inline-block;
+  width: 4px;
+  height: 16px;
+  margin: 0 2px;
+  border-radius: 2px;
+  animation: wave 1.2s ease infinite;
+}
+
+.audio-wave-bar:nth-child(2) {
+  animation-delay: 0.1s;
+}
+
+.audio-wave-bar:nth-child(3) {
+  animation-delay: 0.2s;
+}
+
+.audio-wave-bar:nth-child(4) {
+  animation-delay: 0.3s;
+}
+
+.audio-wave-bar:nth-child(5) {
+  animation-delay: 0.4s;
+}
+
+/* Agent Dashboard Panel Animation */
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+.agent-dashboard-enter {
+  animation: slideIn 0.3s forwards;
+}
+
+.agent-dashboard-exit {
+  animation: slideOut 0.3s forwards;
+}
+
+/* HER film style UI elements */
+.her-gradient-bg {
+  background: linear-gradient(135deg, #ff7676 0%, #f54ea2 100%);
+}
+
+.her-card {
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.her-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments for agent dashboard */
+@media (max-width: 960px) {
+  .agent-dashboard-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background: white;
+  }
+}
