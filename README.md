@@ -116,7 +116,7 @@ AURA is built using multiple agents, each with a distinct role. These agents col
 ## Bonus Features Implemented and How They Added Value
 
 - Voice-based interaction using ElevenLabs API – Enabled natural, immersive experiences  
-- Poetic journaling with OpenAI API – Created memorable, personalized logs  
+- Poetic journaling – Created memorable, personalized logs using customised sub queries  
 - Media and content curation using YouTube, Spotify, and Tavily APIs – Delivered uplifting media tailored to the user's mood  
 - Emotion detection using Hugging Face and OpenAI – Powered empathetic responses  
 - Fallback handling logic – Maintained continuity during failures  
