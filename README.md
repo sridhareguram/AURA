@@ -221,12 +221,12 @@ Clone the project repository from GitHub.
 
 Interact with AURA through the dashboard using either text or voice input.
 
-**Bash Commands to Launch:
+**Bash Commands to Launch:**
 Start Backend:
 cd backend
 uvicorn main:app --reload
 
-**Start Frontend:
+**Start Frontend:**
 cd frontend
 npm install
 npm start
