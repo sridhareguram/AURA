@@ -23,6 +23,10 @@ Developed for the Luddy Hackathon Case 4 challenge, AURA is a locally hosted mul
 
 ## System Overview and Architecture
 
+![Luddy Hack2](https://github.com/user-attachments/assets/900b3bd2-b92b-4821-a899-d02996db1104)
+
+
+
 **AURA** (Autonomous Understanding and Reflective Agent) is a HER-inspired, emotionally intelligent Multi-Agent System. It is designed to emulate empathetic companionship by coordinating multiple autonomous agents—each with specialized roles—who collectively process user inputs, analyze emotional states, generate responses, curate content, and maintain contextual memory.
 
 Each agent operates independently with its own decision-making logic, yet all agents collaborate to fulfill shared goals: understanding the user's emotional landscape and offering personalized support. Once launched, the system runs autonomously without manual intervention, dynamically adapting to the user’s evolving mood and interactions.
