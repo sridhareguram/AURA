@@ -23,15 +23,49 @@ Developed for the Luddy Hackathon Case 4 challenge, AURA is a locally hosted mul
 
 ## System Overview and Architecture
 
-AURA is built using multiple agents, each with a distinct role. These agents collaborate like a team—some analyze mood, others retrieve memory, generate reflections, or suggest content. Communication is handled through a custom message-passing protocol.
+**AURA** (Autonomous Understanding and Reflective Agent) is a HER-inspired, emotionally intelligent Multi-Agent System. It is designed to emulate empathetic companionship by coordinating multiple autonomous agents—each with specialized roles—who collectively process user inputs, analyze emotional states, generate responses, curate content, and maintain contextual memory.
 
-**Though AURA doesn’t rely on frameworks like AutoGen, it mirrors key concepts:**
+Each agent operates independently with its own decision-making logic, yet all agents collaborate to fulfill shared goals: understanding the user's emotional landscape and offering personalized support. Once launched, the system runs autonomously without manual intervention, dynamically adapting to the user’s evolving mood and interactions.
 
-- `base_agent.py`: a shared utility for generating responses  
-- `message_handler.py` and `mcp_protocol.py`: coordinate communication  
-- `memory_agent.py`: maintains session memory  
+### Core Design Philosophy
 
-**Each agent works independently yet collaboratively to form a cohesive, emotionally intelligent system.**
+While AURA does not use Microsoft's [AutoGen](https://github.com/microsoft/autogen) framework directly, its architecture mirrors many of its design principles:
+- **Autonomous Agents**: Each agent operates independently with distinct behaviors.
+- **Message-Passing Protocol**: All agents communicate using a centralized, extensible communication handler.
+- **Model Context Protocol (MCP)**: AURA incorporates a custom MCP layer to manage context sharing and task coordination across agents.
+
+### Key Components
+
+- `base_agent.py`:  
+  Abstract base class shared by all agents. It wraps LLM communication, error handling, and output formatting. Agents inherit from this class to gain consistent capabilities and standardized prompt structuring.
+
+- `message_handler.py`:  
+  Acts as the backbone of inter-agent communication. It dispatches user inputs, tracks agent responses, handles routing logic, and ensures ordered message flow.
+
+- `mcp_protocol.py`:  
+  Implements the Model Context Protocol layer. It governs how task context is initialized, updated, and passed between agents during multi-step interactions. This ensures each agent has access to relevant user history, emotional state, and prior outputs.
+
+- `shared_state.json`:  
+  A lightweight in-memory and persistent store for storing current mood, conversation history, curated content, journal entries, and more. This ensures continuity in long-running sessions and allows for memory-based personalization.
+
+- `memory_agent.py`:  
+  Responsible for recording and retrieving the user's emotional trajectory over time. Stores mood tags, journal metadata, and sentiment markers to help other agents personalize output contextually.
+
+### Autonomous Behavior and Collaboration
+
+Each agent is implemented using rule-based logic, light state machines, and prompt templates tailored to its function. AURA’s architecture supports:
+- **Sequential Collaboration**: For example, Emotion Analyzer first classifies sentiment, then the Support Agent builds responses based on that classification.
+- **Parallel Agent Execution** (future-ready): Design is extensible to allow asynchronous concurrent agents.
+- **Graceful Failure Handling**: The Fallback Agent ensures the system never breaks—even if external APIs fail or models crash.
+
+### Conflict Resolution and Resource Sharing
+
+Agents interact via message queues and operate in a pre-defined execution chain managed by the `mcp_protocol`. To handle contention:
+- Shared resources like emotional context and memory state are read/write locked.
+- The `Fallback Agent` steps in if an agent fails or times out.
+- Prompts include agent-specific memory and task role to prevent context overlap.
+
+**In essence, AURA is an orchestrated symphony of intelligent agents—an emotionally responsive system that listens, reflects, and supports.**
 
 ---
 
@@ -43,10 +77,9 @@ AURA is built using multiple agents, each with a distinct role. These agents col
 4. **Fallback Agent** – Ensures graceful recovery and response even on failure.  
 5. **Journal Agent** – Creates timestamped poetic logs from user input.  
 6. **Memory Agent** – Maintains mood history across sessions.  
-7. **Support Agent** – Offers metaphor-rich responses inspired by Her.
+7. **Support Agent** – Offers metaphor-rich responses inspired by *Her*.
 
 ---
-
 ## Technology Stack
 
 **AURA is built using a robust and scalable stack designed for modular agent interaction and seamless user experience.**
