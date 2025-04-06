@@ -3,7 +3,7 @@
 
 
 
-Hi judges, we’re Team Swayamkrushi, and we built an emotionally intelligent AI system for Luddy Hacks Case 4.
+Hi judges, we’re Team Swayamkrushi, and we built an emotionally intelligent AI system for Luddy Hackathon Case 4.
 
 ---
 
